@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>Dance<li>
+  <li>Badminton</li>
+  <li>Chess</li>
+ </ul>
+ 
