@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Be happy*
+_Always smile_
+
+**Stay awesome**
+__Do great__
+
+_live **freely** always_
+ 
